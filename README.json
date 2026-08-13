@@ -1,0 +1,514 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Installation methods"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PyPi 3"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pipx - good alternative to brew and pip, read comparison"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "xonsh shell"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conda-forge feedstock"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Homebrew"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Macports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Linux portable binary"
+    },
+    {
+      "description": "To run AppImage on Alpine Linux install alpine-pkg-glibc with localedef.",
+      "items": [],
+      "title": "Linux AppImage"
+    },
+    {
+      "description": "Currently supported OS for the target host is Linux on x86_64. ARM support from the community.\nSearch xxh shell on Github or Bitbucket or create your shell entrypoint to use another portable shell.",
+      "items": [],
+      "title": "Shells"
+    },
+    {
+      "description": "Prerun plugins allow you to bring any portable tools, dotfiles, or aliases to your xxh session before running the shell.\nPinned plugins: core (xxh-sudo, xxh-screen, xxh-tmux), dotfiles, docker, python, xxh, vim, zoxide, starship. There is cookiecutter template to create a prerun plugin.",
+      "items": [],
+      "title": "Prerun plugins"
+    },
+    {
+      "description": "Use instead of when connecting to Linux hosts without changing ssh arguments:\nCommon examples (use to get info about arguments):\nFor reusing arguments and simplifying xxh usage (like shortening to ), there is a config file.\nWhy the plus sign for the xxh arguments? The xxh is using the plus sign for xxh arguments to preserve the ability to use the minus sign for the original ssh arguments. This allows just replacing the first two letters in the command to convert it to the command. Also see the discussion.",
+      "items": [],
+      "title": "Usage"
+    },
+    {
+      "description": "Different ways to set the xxh package source:",
+      "items": [],
+      "title": "Installing xxh packages"
+    },
+    {
+      "description": "This is experimental magic. Please read the text below twice.\nIf you have shell access on the host or you're in a docker container and you can't ssh to it then you can download and build a hermetic xxh environment inplace. The command works exactly like and creates a hermetic environment in by default.\nAt this time we don't have portable build tools like , , , and others which could be required by some xxh package build scripts. When running it is expected that the tools are present on the host.\nTo run xxh inplace on Linux x86_64 just copy and paste these bash commands:\nNext time you're on the host just run and you will enter your xxh environment.",
+      "items": [],
+      "title": "Using xxh inplace without ssh connection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Examples of use cases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python with pip everywhere without installation"
+    },
+    {
+      "description": "You'll get python-powered xonsh shell with portable python and pip on the host without any system installations on the host. You can install PyPi packages manually or bring them with you automatically by using xxh-plugin-prerun-dotfiles. Also, don't forget about xxh-plugins like zoxide.",
+      "items": [],
+      "title": "Way 1. Using xonsh"
+    },
+    {
+      "description": "Using xxh-plugin-prerun-python you'll get a portable Python AppImage which can be used on a host without python and with any xxh shell.",
+      "items": [],
+      "title": "Way 2. Using portable python on any xxh shell"
+    },
+    {
+      "description": "Try xxh-plugin-prerun-docker:",
+      "items": [],
+      "title": "Using docker on host without root access"
+    },
+    {
+      "description": "There is the xxh-plugin-prerun-dotfiles plugin which creates config files when you go to the host using xxh. You can fork it and create your cozy settings once and forever.",
+      "items": [],
+      "title": "Bring dotfiles to xxh session"
+    },
+    {
+      "description": "This command brings your current Oh My Zsh session theme to the xxh session. If you need more complex settings just fork the xxh-plugin-zsh-ohmyzsh and hack it.",
+      "items": [],
+      "title": "Seamless Oh My Zsh (demo)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Read host as a table with osquery"
+    },
+    {
+      "description": "xxh is very agile. You can create your own (the shell part means it has an entrypoint), which can have any portable tools that could help you on the host. Bash xxh-shell is one of these platforms that could be forked and stuffed.",
+      "items": [],
+      "title": "All-in-one portable home"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Welcome to xxh family",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "How it works",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Simple answer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6063
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Detailed workflow with code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6063
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plugins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Connection speed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Seamless mode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Config file",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packages for xxh",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Install shells and plugins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "How to set /home/user as home on host",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using sudo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using xxh in xxh session",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Target host is behind another host",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Environment variables",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Development and contribution",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The easiest way to debug shell and plugins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prerun plugins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Change plugin run order",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6063
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6063
+          }
+        }
+      ],
+      "title": "Questions and answers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development"
+    },
+    {
+      "description": "In the xxh development environment there is a full dockerised environment for development, testing, and contribution. The process of testing and development is orchestrated by tool and is as easy as possible.",
+      "items": [],
+      "title": "xxh Development Environment"
+    },
+    {
+      "description": "To develop plugins, Vagrant supports starting many configurations of virtual machines using Virtualbox.\nSee the Plugin Development folder for more details",
+      "items": [],
+      "title": "Vagrant based Plugin Development"
+    },
+    {
+      "description": "If you're in a team it does not mean you have an obligation to do something. The main goal of teams is to create groups of passionate people who could help or support solving complex problems. Some people could be an expert in one shell and a newbie in another shell and mutual assistance is the key to xxh evolution. Ask to join.",
+      "items": [],
+      "title": "We have teams"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Johannes Altmanninger and Fabian Homborg for extensive and portable fish shell",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T17:00:07Z",
+            "owner": "fish-shell",
+            "repo": "fish-shell",
+            "stars": 34011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anthony Scopatz, Gil Forsyth, Jamie Bliss, David Strobach, Morten Enemark Lund and @xore for amazing xonsh shell",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:31:11Z",
+            "owner": "xonsh",
+            "repo": "xonsh",
+            "stars": 9599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roman Perepelitsa for incredible statically-linked, hermetic, relocatable Zsh",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-14T07:19:24Z",
+            "owner": "romkatv",
+            "repo": "zsh-bin",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niess for great python-appimage",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T05:54:01Z",
+            "owner": "niess",
+            "repo": "python-appimage",
+            "stars": 223
+          }
+        }
+      ],
+      "title": "Thanks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:36.720Z",
+    "original_repository": "xxh/xxh",
+    "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",
+    "enhanced_repository": "enhansome/enhansome-xxh",
+    "enhanced_repository_description": null,
+    "title": "Awesome xxh with stars"
+  }
+}
