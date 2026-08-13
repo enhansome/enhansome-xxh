@@ -139,7 +139,7 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6063
+                    "stars": 6065
                   }
                 },
                 {
@@ -153,7 +153,7 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6063
+                    "stars": 6065
                   }
                 }
               ],
@@ -163,7 +163,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -177,7 +177,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -191,7 +191,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -205,7 +205,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             }
           ],
@@ -229,7 +229,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6063
+            "stars": 6065
           }
         },
         {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             }
           ],
@@ -258,7 +258,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6063
+            "stars": 6065
           }
         },
         {
@@ -277,7 +277,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -319,7 +319,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -333,7 +333,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             }
           ],
@@ -343,7 +343,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6063
+            "stars": 6065
           }
         },
         {
@@ -362,7 +362,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6063
+                "stars": 6065
               }
             }
           ],
@@ -400,7 +400,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6063
+            "stars": 6065
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6063
+            "stars": 6065
           }
         }
       ],
@@ -451,10 +451,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-07T17:00:07Z",
+            "last_commit": "2026-08-13T18:37:25Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34011
+            "stars": 34015
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-11T06:31:11Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9599
+            "stars": 9600
           }
         },
         {
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:36.720Z",
+    "last_updated": "2026-08-13T18:40:28.846Z",
     "original_repository": "xxh/xxh",
     "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",
     "enhanced_repository": "enhansome/enhansome-xxh",
