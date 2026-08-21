@@ -359,10 +359,10 @@
             "archived": false,
             "id": 4279682,
             "language": "Rust",
-            "last_commit": "2026-08-20T01:18:54Z",
+            "last_commit": "2026-08-21T15:13:41Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34044
+            "stars": 34049
           }
         },
         {
@@ -374,10 +374,10 @@
             "archived": false,
             "id": 29620400,
             "language": "Python",
-            "last_commit": "2026-08-18T08:39:20Z",
+            "last_commit": "2026-08-21T11:02:03Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9608
+            "stars": 9612
           }
         },
         {
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:15:16.149Z",
+    "last_updated": "2026-08-21T18:15:25.459Z",
     "original_repository": "xxh/xxh",
     "original_repository_id": 219294494,
     "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",
