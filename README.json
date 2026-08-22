@@ -362,7 +362,7 @@
             "last_commit": "2026-08-21T15:13:41Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34049
+            "stars": 34055
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2026-08-21T11:02:03Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9612
+            "stars": 9614
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2026-05-14T07:19:24Z",
             "owner": "romkatv",
             "repo": "zsh-bin",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:15:25.459Z",
+    "last_updated": "2026-08-22T18:00:30.318Z",
     "original_repository": "xxh/xxh",
     "original_repository_id": 219294494,
     "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",

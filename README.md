@@ -83,7 +83,7 @@ wget -O xxh https://github.com/xxh/xxh/releases/download/0.8.12/xxh-x86_64.AppIm
 chmod +x xxh && ./xxh
 ```
 
-To run AppImage on Alpine Linux [install](https://github.com/sgerrand/alpine-pkg-glibc/issues/153#issuecomment-795334536) ⭐ 2,165 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) ⭐ 2,165 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 with [localedef](https://github.com/sgerrand/alpine-pkg-glibc#locales) ⭐ 2,165 | 🐛 49 | 🌐 Shell | 📅 2024-06-24.
+To run AppImage on Alpine Linux [install](https://github.com/sgerrand/alpine-pkg-glibc/issues/153#issuecomment-795334536) ⭐ 2,166 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) ⭐ 2,166 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 with [localedef](https://github.com/sgerrand/alpine-pkg-glibc#locales) ⭐ 2,166 | 🐛 49 | 🌐 Shell | 📅 2024-06-24.
 
 ## Shells
 
@@ -301,12 +301,12 @@ newbie in another shell and mutual assistance is the key to xxh evolution. [Ask 
 
 ## Thanks
 
-* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,049 | 🐛 567 | 🌐 Rust | 📅 2026-08-21.
-* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,612 | 🐛 74 | 🌐 Python | 📅 2026-08-21.
-* **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 399 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
+* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,055 | 🐛 567 | 🌐 Rust | 📅 2026-08-21.
+* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,614 | 🐛 75 | 🌐 Python | 📅 2026-08-21.
+* **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 400 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
 * **niess** for great [python-appimage](https://github.com/niess/python-appimage) ⭐ 223 | 🐛 17 | 🌐 Python | 📅 2026-08-02.
 * **probonopd** and **TheAssassin** for hard-working [AppImage](https://github.com/AppImage).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
