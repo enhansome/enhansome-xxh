@@ -46,7 +46,7 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6072
+                    "stars": 6073
                   }
                 },
                 {
@@ -61,7 +61,7 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6072
+                    "stars": 6073
                   }
                 }
               ],
@@ -72,7 +72,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -87,7 +87,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -102,7 +102,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -117,7 +117,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -132,7 +132,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             }
           ],
@@ -143,7 +143,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6072
+            "stars": 6073
           }
         },
         {
@@ -163,7 +163,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             }
           ],
@@ -174,7 +174,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6072
+            "stars": 6073
           }
         },
         {
@@ -194,7 +194,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -209,7 +209,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -224,7 +224,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -254,7 +254,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             }
           ],
@@ -265,7 +265,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6072
+            "stars": 6073
           }
         },
         {
@@ -285,7 +285,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -300,7 +300,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -315,7 +315,7 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6072
+                "stars": 6073
               }
             }
           ],
@@ -326,7 +326,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6072
+            "stars": 6073
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6072
+            "stars": 6073
           }
         }
       ],
@@ -374,10 +374,10 @@
             "archived": false,
             "id": 29620400,
             "language": "Python",
-            "last_commit": "2026-08-21T11:02:03Z",
+            "last_commit": "2026-08-23T15:43:08Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9614
+            "stars": 9615
           }
         },
         {
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:00:30.318Z",
+    "last_updated": "2026-08-23T18:00:12.254Z",
     "original_repository": "xxh/xxh",
     "original_repository_id": 219294494,
     "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",
