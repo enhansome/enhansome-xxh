@@ -9,6 +9,280 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 295828398,
+            "language": null,
+            "last_commit": "2026-04-24T15:16:52Z",
+            "owner": "conda-forge",
+            "repo": "xxh-xxh-feedstock",
+            "stars": 2
+          },
+          "title": "Conda-forge feedstock"
+        }
+      ],
+      "title": "Installation methods"
+    },
+    {
+      "description": "Currently supported OS for the target host is Linux on x86_64. ARM support from the community.\nSearch xxh shell on Github or Bitbucket or create your shell entrypoint to use another portable shell.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xxh-plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219294494,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seamless",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219294494,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xonsh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244889531,
+            "language": "Shell",
+            "last_commit": "2026-07-02T11:16:56Z",
+            "owner": "xxh",
+            "repo": "xxh-shell-xonsh",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autojump",
+          "description": ", [+]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219302480,
+            "language": "Shell",
+            "last_commit": "2023-02-06T14:59:26Z",
+            "owner": "xxh",
+            "repo": "xxh-plugin-xonsh-autojump",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248015049,
+            "language": "Shell",
+            "last_commit": "2026-06-02T17:24:24Z",
+            "owner": "xxh",
+            "repo": "xxh-shell-zsh",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ohmyzsh",
+          "description": ", p10k, [+]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245663240,
+            "language": "Shell",
+            "last_commit": "2021-03-29T04:38:17Z",
+            "owner": "xxh",
+            "repo": "xxh-plugin-zsh-ohmyzsh",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249940222,
+            "language": "Shell",
+            "last_commit": "2022-12-21T13:58:24Z",
+            "owner": "xxh",
+            "repo": "xxh-shell-fish",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ohmyfish",
+          "description": ", fisher, userconfig, [+]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251068925,
+            "language": "Shell",
+            "last_commit": "2020-10-05T08:40:43Z",
+            "owner": "xxh",
+            "repo": "xxh-plugin-fish-ohmyfish",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219294494,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246160229,
+            "language": "Shell",
+            "last_commit": "2021-07-24T10:51:52Z",
+            "owner": "xxh",
+            "repo": "xxh-shell-bash",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ohmybash",
+          "description": ", [+]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250989202,
+            "language": "Shell",
+            "last_commit": "2022-04-24T19:43:01Z",
+            "owner": "xxh",
+            "repo": "xxh-plugin-bash-ohmybash",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osquery",
+          "description": "beta",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246944628,
+            "language": "Shell",
+            "last_commit": "2022-08-11T11:34:53Z",
+            "owner": "xxh",
+            "repo": "xxh-shell-osquery",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fish-appimage",
+          "description": "alpha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245586712,
+            "language": "Shell",
+            "last_commit": "2020-10-05T09:42:56Z",
+            "owner": "xxh",
+            "repo": "xxh-shell-fish-appimage",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elvish",
+          "description": "alpha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379596606,
+            "language": "Shell",
+            "last_commit": "2021-06-23T12:55:54Z",
+            "owner": "krageon",
+            "repo": "xxh-shell-elvish",
+            "stars": 4
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prerun plugins",
+              "description": "allow you to bring any portable tools, dotfiles, or aliases to your xxh session before running the shell.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219294494,
+                "language": "Python",
+                "last_commit": "2026-06-02T04:36:08Z",
+                "owner": "xxh",
+                "repo": "xxh",
+                "stars": 6073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pinned plugins: core",
+              "description": "(xxh-sudo, xxh-screen, xxh-tmux), dotfiles, docker, python, xxh, vim, zoxide, starship. There is cookiecutter template to create a prerun plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256969119,
+                "language": "Shell",
+                "last_commit": "2022-09-27T14:41:26Z",
+                "owner": "xxh",
+                "repo": "xxh-plugin-prerun-core",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prerun plugins"
+        }
+      ],
+      "title": "Shells"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "id": 246944628,
             "language": "Shell",
             "last_commit": "2022-08-11T11:34:53Z",
@@ -25,18 +299,61 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Welcome to xxh family",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "How it works",
+              "title": "Welcome to xxh family",
               "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Simple answer",
+                  "title": "How it works",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Simple answer",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 219294494,
+                        "language": "Python",
+                        "last_commit": "2026-06-02T04:36:08Z",
+                        "owner": "xxh",
+                        "repo": "xxh",
+                        "stars": 6073
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Detailed workflow with code",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 219294494,
+                        "language": "Python",
+                        "last_commit": "2026-06-02T04:36:08Z",
+                        "owner": "xxh",
+                        "repo": "xxh",
+                        "stars": 6073
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Plugins",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -51,7 +368,37 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Detailed workflow with code",
+                  "title": "Connection speed",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Seamless mode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Config file",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -77,9 +424,25 @@
             },
             {
               "node_type": "item",
-              "title": "Plugins",
+              "title": "Packages for xxh",
               "description": null,
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Install shells and plugins",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                }
+              ],
               "repo_info": {
                 "archived": false,
                 "id": 219294494,
@@ -92,9 +455,85 @@
             },
             {
               "node_type": "item",
-              "title": "Connection speed",
+              "title": "Advanced",
               "description": null,
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "How to set /home/user as home on host",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Using sudo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Using xxh in xxh session",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Target host is behind another host",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Environment variables",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                }
+              ],
               "repo_info": {
                 "archived": false,
                 "id": 219294494,
@@ -107,9 +546,55 @@
             },
             {
               "node_type": "item",
-              "title": "Seamless mode",
+              "title": "Development and contribution",
               "description": null,
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The easiest way to debug shell and plugins",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prerun plugins",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Change plugin run order",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219294494,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T04:36:08Z",
+                    "owner": "xxh",
+                    "repo": "xxh",
+                    "stars": 6073
+                  }
+                }
+              ],
               "repo_info": {
                 "archived": false,
                 "id": 219294494,
@@ -122,7 +607,7 @@
             },
             {
               "node_type": "item",
-              "title": "Config file",
+              "title": "New questions",
               "description": null,
               "children": [],
               "repo_info": {
@@ -136,128 +621,8 @@
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "id": 219294494,
-            "language": "Python",
-            "last_commit": "2026-06-02T04:36:08Z",
-            "owner": "xxh",
-            "repo": "xxh",
-            "stars": 6073
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Packages for xxh",
           "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Install shells and plugins",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "id": 219294494,
-            "language": "Python",
-            "last_commit": "2026-06-02T04:36:08Z",
-            "owner": "xxh",
-            "repo": "xxh",
-            "stars": 6073
-          }
-        },
-        {
           "node_type": "item",
-          "title": "Advanced",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "How to set /home/user as home on host",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Using sudo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Using xxh in xxh session",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Target host is behind another host",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Environment variables",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            }
-          ],
           "repo_info": {
             "archived": false,
             "id": 219294494,
@@ -266,86 +631,11 @@
             "owner": "xxh",
             "repo": "xxh",
             "stars": 6073
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Development and contribution",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "The easiest way to debug shell and plugins",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Prerun plugins",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Change plugin run order",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 219294494,
-                "language": "Python",
-                "last_commit": "2026-06-02T04:36:08Z",
-                "owner": "xxh",
-                "repo": "xxh",
-                "stars": 6073
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "id": 219294494,
-            "language": "Python",
-            "last_commit": "2026-06-02T04:36:08Z",
-            "owner": "xxh",
-            "repo": "xxh",
-            "stars": 6073
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "New questions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 219294494,
-            "language": "Python",
-            "last_commit": "2026-06-02T04:36:08Z",
-            "owner": "xxh",
-            "repo": "xxh",
-            "stars": 6073
-          }
+          },
+          "title": "Questions and answers"
         }
       ],
-      "title": "Questions and answers"
+      "title": "Overview"
     },
     {
       "description": null,
@@ -359,10 +649,10 @@
             "archived": false,
             "id": 4279682,
             "language": "Rust",
-            "last_commit": "2026-08-21T15:13:41Z",
+            "last_commit": "2026-08-23T20:45:07Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34055
+            "stars": 34056
           }
         },
         {
@@ -377,7 +667,7 @@
             "last_commit": "2026-08-23T15:43:08Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9615
+            "stars": 9616
           }
         },
         {
@@ -415,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:00:12.254Z",
+    "last_updated": "2026-08-24T13:52:08.937Z",
     "original_repository": "xxh/xxh",
     "original_repository_id": 219294494,
     "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",

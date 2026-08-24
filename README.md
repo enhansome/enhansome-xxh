@@ -6,7 +6,7 @@
 If you like the idea of xxh click ⭐ on the repo and <a href="https://twitter.com/intent/tweet?text=Bring%20your%20favorite%20shell%20wherever%20you%20go%20through%20the%20ssh.&url=https://github.com/xxh/xxh" target="_blank">tweet</a>.
 </p>
 
-<a href='https://github.com/xxh/xxh#installation-methods'><img alt='[xxh demo]' src='https://raw.githubusercontent.com/xxh/static/master/xxh-demo2.gif'></a>
+[<img alt='[xxh demo]' src='https://raw.githubusercontent.com/xxh/static/master/xxh-demo2.gif'>](https://github.com/xxh/xxh#installation-methods) ⭐ 6,073 | 🐛 30 | 🌐 Python | 📅 2026-06-02
 
 <table border="0" width="100%">
 <col style="width:33%">
@@ -301,12 +301,12 @@ newbie in another shell and mutual assistance is the key to xxh evolution. [Ask 
 
 ## Thanks
 
-* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,055 | 🐛 567 | 🌐 Rust | 📅 2026-08-21.
-* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,615 | 🐛 71 | 🌐 Python | 📅 2026-08-23.
+* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,056 | 🐛 568 | 🌐 Rust | 📅 2026-08-23.
+* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,616 | 🐛 72 | 🌐 Python | 📅 2026-08-23.
 * **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 400 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
 * **niess** for great [python-appimage](https://github.com/niess/python-appimage) ⭐ 223 | 🐛 17 | 🌐 Python | 📅 2026-08-02.
 * **probonopd** and **TheAssassin** for hard-working [AppImage](https://github.com/AppImage).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
