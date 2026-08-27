@@ -105,7 +105,7 @@ Currently supported OS for the target host is Linux on x86\_64. [ARM support](ht
 
 [Prerun plugins](https://github.com/xxh/xxh/wiki#plugins) ⭐ 6,075 | 🐛 30 | 🌐 Python | 📅 2026-06-02 allow you to bring any portable tools, dotfiles, or aliases to your xxh session before running the shell.
 
-Pinned plugins: **[core](https://github.com/xxh/xxh-plugin-prerun-core) ⭐ 9 | 🐛 2 | 🌐 Shell | 📅 2022-09-27** (xxh-sudo, xxh-screen, xxh-tmux), **[dotfiles](https://github.com/xxh/xxh-plugin-prerun-dotfiles) ⭐ 39 | 🐛 2 | 🌐 Shell | 📅 2024-04-29**, **[docker](https://github.com/xxh/xxh-plugin-prerun-docker) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2020-05-20**, **[python](https://github.com/xxh/xxh-plugin-prerun-python) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2022-04-27**, **[xxh](https://github.com/xxh/xxh-plugin-prerun-xxh) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-03-23**, **[vim](https://github.com/xxh/xxh-plugin-prerun-vim) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-03-28**, **[zoxide](https://github.com/xxh/xxh-plugin-prerun-zoxide) ⭐ 20 | 🐛 0 | 🌐 Shell | 📅 2023-02-06**, **[starship](https://github.com/izissise/xxh-plugin-prerun-starship) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2022-03-22**. There is [cookiecutter template to create a prerun plugin](https://github.com/xxh/cookiecutter-xxh-plugin-prerun) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2022-12-12.
+Pinned plugins: **[core](https://github.com/xxh/xxh-plugin-prerun-core) ⭐ 9 | 🐛 2 | 🌐 Shell | 📅 2022-09-27** (xxh-sudo, xxh-screen, xxh-tmux), **[dotfiles](https://github.com/xxh/xxh-plugin-prerun-dotfiles) ⭐ 39 | 🐛 2 | 🌐 Shell | 📅 2024-04-29**, **[docker](https://github.com/xxh/xxh-plugin-prerun-docker) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2020-05-20**, **[python](https://github.com/xxh/xxh-plugin-prerun-python) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2022-04-27**, **[xxh](https://github.com/xxh/xxh-plugin-prerun-xxh) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-03-23**, **[vim](https://github.com/xxh/xxh-plugin-prerun-vim) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-03-28**, **[zoxide](https://github.com/xxh/xxh-plugin-prerun-zoxide) ⭐ 21 | 🐛 0 | 🌐 Shell | 📅 2023-02-06**, **[starship](https://github.com/izissise/xxh-plugin-prerun-starship) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2022-03-22**. There is [cookiecutter template to create a prerun plugin](https://github.com/xxh/cookiecutter-xxh-plugin-prerun) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2022-12-12.
 
 ## Usage
 
@@ -191,7 +191,7 @@ Python 3.8.2
 ```
 
 You'll get python-powered [xonsh](https://xon.sh) shell with portable python and pip on the host without any system installations on the host.
-You can install PyPi packages manually or bring them with you automatically by using [xxh-plugin-prerun-dotfiles](https://github.com/xxh/xxh-plugin-prerun-dotfiles) ⭐ 39 | 🐛 2 | 🌐 Shell | 📅 2024-04-29. Also, don't forget about xxh-plugins like [zoxide](https://github.com/xxh/xxh-plugin-prerun-zoxide) ⭐ 20 | 🐛 0 | 🌐 Shell | 📅 2023-02-06.
+You can install PyPi packages manually or bring them with you automatically by using [xxh-plugin-prerun-dotfiles](https://github.com/xxh/xxh-plugin-prerun-dotfiles) ⭐ 39 | 🐛 2 | 🌐 Shell | 📅 2024-04-29. Also, don't forget about xxh-plugins like [zoxide](https://github.com/xxh/xxh-plugin-prerun-zoxide) ⭐ 21 | 🐛 0 | 🌐 Shell | 📅 2023-02-06.
 
 #### Way 2. Using portable python on any xxh shell
 
@@ -301,7 +301,7 @@ newbie in another shell and mutual assistance is the key to xxh evolution. [Ask 
 
 ## Thanks
 
-* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,072 | 🐛 568 | 🌐 Rust | 📅 2026-08-26.
+* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,072 | 🐛 567 | 🌐 Rust | 📅 2026-08-27.
 * **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,622 | 🐛 73 | 🌐 Python | 📅 2026-08-25.
 * **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 401 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
 * **niess** for great [python-appimage](https://github.com/niess/python-appimage) ⭐ 223 | 🐛 17 | 🌐 Python | 📅 2026-08-02.
@@ -309,4 +309,4 @@ newbie in another shell and mutual assistance is the key to xxh evolution. [Ask 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
