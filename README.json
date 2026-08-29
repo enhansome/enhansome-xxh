@@ -9,12 +9,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A conda-smithy repository for xxh-xxh.",
+            "homepage": null,
             "id": 295828398,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-24T15:16:52Z",
+            "open_issues": 5,
             "owner": "conda-forge",
             "repo": "xxh-xxh-feedstock",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "title": "Conda-forge feedstock",
           "first_seen": "2026-08-29T01:11:16.692Z"
@@ -32,12 +37,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+            "homepage": null,
             "id": 219294494,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-02T04:36:08Z",
+            "open_issues": 30,
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6077
+            "stars": 6077,
+            "topics": [
+              "awesome",
+              "awesome-ssh",
+              "bash",
+              "devops",
+              "fish",
+              "fisher",
+              "hacking-tools",
+              "linux",
+              "ohmybash",
+              "ohmyfish",
+              "ohmyzsh",
+              "openssh",
+              "osquery",
+              "powerlevel10k",
+              "powerlevel9k",
+              "shell",
+              "ssh",
+              "xonsh",
+              "xxh",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -48,12 +79,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+            "homepage": null,
             "id": 219294494,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-02T04:36:08Z",
+            "open_issues": 30,
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6077
+            "stars": 6077,
+            "topics": [
+              "awesome",
+              "awesome-ssh",
+              "bash",
+              "devops",
+              "fish",
+              "fisher",
+              "hacking-tools",
+              "linux",
+              "ohmybash",
+              "ohmyfish",
+              "ohmyzsh",
+              "openssh",
+              "osquery",
+              "powerlevel10k",
+              "powerlevel9k",
+              "shell",
+              "ssh",
+              "xonsh",
+              "xxh",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -64,12 +121,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use @xonsh wherever you go through the SSH without installation on the host.",
+            "homepage": null,
             "id": 244889531,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-02T11:16:56Z",
+            "open_issues": 6,
             "owner": "xxh",
             "repo": "xxh-shell-xonsh",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "data-engineering",
+              "data-science",
+              "devops",
+              "devsecops",
+              "pentesting",
+              "security-automation",
+              "xonsh",
+              "xontrib",
+              "xxh",
+              "xxh-shell"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -80,12 +153,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autojump plugin for xonsh xxh",
+            "homepage": null,
             "id": 219302480,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-02-06T14:59:26Z",
+            "open_issues": 0,
             "owner": "xxh",
             "repo": "xxh-plugin-xonsh-autojump",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "autojump",
+              "python",
+              "xonsh",
+              "xxh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -96,12 +179,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use zsh wherever you go through the SSH without installation on the host.",
+            "homepage": null,
             "id": 248015049,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-02T17:24:24Z",
+            "open_issues": 7,
             "owner": "xxh",
             "repo": "xxh-shell-zsh",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "xxh",
+              "xxh-shell",
+              "zsh",
+              "zsh-bin",
+              "zsh-ssh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -112,12 +206,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oh my zsh plugin for xxh zsh",
+            "homepage": null,
             "id": 245663240,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-03-29T04:38:17Z",
+            "open_issues": 4,
             "owner": "xxh",
             "repo": "xxh-plugin-zsh-ohmyzsh",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "ohmyzsh",
+              "xxh",
+              "xxh-plugin",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -128,12 +232,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use the fish shell wherever you go through the SSH without installation on the host.",
+            "homepage": null,
             "id": 249940222,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-12-21T13:58:24Z",
+            "open_issues": 4,
             "owner": "xxh",
             "repo": "xxh-shell-fish",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "fish",
+              "fish-ssh",
+              "xxh",
+              "xxh-shell"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -144,12 +258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oh My Fish xxh-plugin",
+            "homepage": null,
             "id": 251068925,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-10-05T08:40:43Z",
+            "open_issues": 0,
             "owner": "xxh",
             "repo": "xxh-plugin-fish-ohmyfish",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "fish",
+              "ohmyfish",
+              "xxh",
+              "xxh-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -160,12 +284,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+            "homepage": null,
             "id": 219294494,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-02T04:36:08Z",
+            "open_issues": 30,
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6077
+            "stars": 6077,
+            "topics": [
+              "awesome",
+              "awesome-ssh",
+              "bash",
+              "devops",
+              "fish",
+              "fisher",
+              "hacking-tools",
+              "linux",
+              "ohmybash",
+              "ohmyfish",
+              "ohmyzsh",
+              "openssh",
+              "osquery",
+              "powerlevel10k",
+              "powerlevel9k",
+              "shell",
+              "ssh",
+              "xonsh",
+              "xxh",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -176,12 +326,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xxh entrypoint for bash",
+            "homepage": null,
             "id": 246160229,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-07-24T10:51:52Z",
+            "open_issues": 0,
             "owner": "xxh",
             "repo": "xxh-shell-bash",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "bash",
+              "xxh",
+              "xxh-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -192,12 +351,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oh My Bash xxh plugin",
+            "homepage": null,
             "id": 250989202,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-04-24T19:43:01Z",
+            "open_issues": 0,
             "owner": "xxh",
             "repo": "xxh-plugin-bash-ohmybash",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ohmybash",
+              "xxh",
+              "xxh-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -208,12 +376,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "osquery xxh shell entrypoint",
+            "homepage": null,
             "id": 246944628,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-08-11T11:34:53Z",
+            "open_issues": 1,
             "owner": "xxh",
             "repo": "xxh-shell-osquery",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "osquery",
+              "xxh",
+              "xxh-shell"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -224,12 +401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fish appimage xxh shell entrypoint",
+            "homepage": null,
             "id": 245586712,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-10-05T09:42:56Z",
+            "open_issues": 0,
             "owner": "xxh",
             "repo": "xxh-shell-fish-appimage",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -240,12 +422,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use the elvish shell wherever you go through the SSH without installation on the host. ",
+            "homepage": null,
             "id": 379596606,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-06-23T12:55:54Z",
+            "open_issues": 0,
             "owner": "krageon",
             "repo": "xxh-shell-elvish",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "elvish",
+              "xxh",
+              "xxh-shell"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -258,12 +449,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                "homepage": null,
                 "id": 219294494,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-02T04:36:08Z",
+                "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6077
+                "stars": 6077,
+                "topics": [
+                  "awesome",
+                  "awesome-ssh",
+                  "bash",
+                  "devops",
+                  "fish",
+                  "fisher",
+                  "hacking-tools",
+                  "linux",
+                  "ohmybash",
+                  "ohmyfish",
+                  "ohmyzsh",
+                  "openssh",
+                  "osquery",
+                  "powerlevel10k",
+                  "powerlevel9k",
+                  "shell",
+                  "ssh",
+                  "xonsh",
+                  "xxh",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:11:16.692Z"
             },
@@ -274,12 +491,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The xxh wrappers for core tools i.e. sudo, screen.",
+                "homepage": null,
                 "id": 256969119,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-09-27T14:41:26Z",
+                "open_issues": 2,
                 "owner": "xxh",
                 "repo": "xxh-plugin-prerun-core",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "xxh",
+                  "xxh-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:11:16.692Z"
             }
@@ -300,12 +525,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "osquery xxh shell entrypoint",
+            "homepage": null,
             "id": 246944628,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-08-11T11:34:53Z",
+            "open_issues": 1,
             "owner": "xxh",
             "repo": "xxh-shell-osquery",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "osquery",
+              "xxh",
+              "xxh-shell"
+            ]
           },
           "title": "Read host as a table with osquery",
           "first_seen": "2026-08-29T01:11:16.692Z"
@@ -335,12 +569,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                        "homepage": null,
                         "id": 219294494,
                         "language": "Python",
+                        "license": "BSD-2-Clause",
                         "last_commit": "2026-06-02T04:36:08Z",
+                        "open_issues": 30,
                         "owner": "xxh",
                         "repo": "xxh",
-                        "stars": 6077
+                        "stars": 6077,
+                        "topics": [
+                          "awesome",
+                          "awesome-ssh",
+                          "bash",
+                          "devops",
+                          "fish",
+                          "fisher",
+                          "hacking-tools",
+                          "linux",
+                          "ohmybash",
+                          "ohmyfish",
+                          "ohmyzsh",
+                          "openssh",
+                          "osquery",
+                          "powerlevel10k",
+                          "powerlevel9k",
+                          "shell",
+                          "ssh",
+                          "xonsh",
+                          "xxh",
+                          "zsh"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:11:16.692Z"
                     },
@@ -351,24 +611,76 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                        "homepage": null,
                         "id": 219294494,
                         "language": "Python",
+                        "license": "BSD-2-Clause",
                         "last_commit": "2026-06-02T04:36:08Z",
+                        "open_issues": 30,
                         "owner": "xxh",
                         "repo": "xxh",
-                        "stars": 6077
+                        "stars": 6077,
+                        "topics": [
+                          "awesome",
+                          "awesome-ssh",
+                          "bash",
+                          "devops",
+                          "fish",
+                          "fisher",
+                          "hacking-tools",
+                          "linux",
+                          "ohmybash",
+                          "ohmyfish",
+                          "ohmyzsh",
+                          "openssh",
+                          "osquery",
+                          "powerlevel10k",
+                          "powerlevel9k",
+                          "shell",
+                          "ssh",
+                          "xonsh",
+                          "xxh",
+                          "zsh"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:11:16.692Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -379,12 +691,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -395,12 +733,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -411,12 +775,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -427,24 +817,76 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                "homepage": null,
                 "id": 219294494,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-02T04:36:08Z",
+                "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6077
+                "stars": 6077,
+                "topics": [
+                  "awesome",
+                  "awesome-ssh",
+                  "bash",
+                  "devops",
+                  "fish",
+                  "fisher",
+                  "hacking-tools",
+                  "linux",
+                  "ohmybash",
+                  "ohmyfish",
+                  "ohmyzsh",
+                  "openssh",
+                  "osquery",
+                  "powerlevel10k",
+                  "powerlevel9k",
+                  "shell",
+                  "ssh",
+                  "xonsh",
+                  "xxh",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:11:16.692Z"
             },
@@ -460,24 +902,76 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                "homepage": null,
                 "id": 219294494,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-02T04:36:08Z",
+                "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6077
+                "stars": 6077,
+                "topics": [
+                  "awesome",
+                  "awesome-ssh",
+                  "bash",
+                  "devops",
+                  "fish",
+                  "fisher",
+                  "hacking-tools",
+                  "linux",
+                  "ohmybash",
+                  "ohmyfish",
+                  "ohmyzsh",
+                  "openssh",
+                  "osquery",
+                  "powerlevel10k",
+                  "powerlevel9k",
+                  "shell",
+                  "ssh",
+                  "xonsh",
+                  "xxh",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:11:16.692Z"
             },
@@ -493,12 +987,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -509,12 +1029,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -525,12 +1071,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -541,12 +1113,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -557,24 +1155,76 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                "homepage": null,
                 "id": 219294494,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-02T04:36:08Z",
+                "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6077
+                "stars": 6077,
+                "topics": [
+                  "awesome",
+                  "awesome-ssh",
+                  "bash",
+                  "devops",
+                  "fish",
+                  "fisher",
+                  "hacking-tools",
+                  "linux",
+                  "ohmybash",
+                  "ohmyfish",
+                  "ohmyzsh",
+                  "openssh",
+                  "osquery",
+                  "powerlevel10k",
+                  "powerlevel9k",
+                  "shell",
+                  "ssh",
+                  "xonsh",
+                  "xxh",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:11:16.692Z"
             },
@@ -590,12 +1240,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -606,12 +1282,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 },
@@ -622,24 +1324,76 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                    "homepage": null,
                     "id": 219294494,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-02T04:36:08Z",
+                    "open_issues": 30,
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6077
+                    "stars": 6077,
+                    "topics": [
+                      "awesome",
+                      "awesome-ssh",
+                      "bash",
+                      "devops",
+                      "fish",
+                      "fisher",
+                      "hacking-tools",
+                      "linux",
+                      "ohmybash",
+                      "ohmyfish",
+                      "ohmyzsh",
+                      "openssh",
+                      "osquery",
+                      "powerlevel10k",
+                      "powerlevel9k",
+                      "shell",
+                      "ssh",
+                      "xonsh",
+                      "xxh",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                "homepage": null,
                 "id": 219294494,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-02T04:36:08Z",
+                "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6077
+                "stars": 6077,
+                "topics": [
+                  "awesome",
+                  "awesome-ssh",
+                  "bash",
+                  "devops",
+                  "fish",
+                  "fisher",
+                  "hacking-tools",
+                  "linux",
+                  "ohmybash",
+                  "ohmyfish",
+                  "ohmyzsh",
+                  "openssh",
+                  "osquery",
+                  "powerlevel10k",
+                  "powerlevel9k",
+                  "shell",
+                  "ssh",
+                  "xonsh",
+                  "xxh",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:11:16.692Z"
             },
@@ -650,12 +1404,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+                "homepage": null,
                 "id": 219294494,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-02T04:36:08Z",
+                "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6077
+                "stars": 6077,
+                "topics": [
+                  "awesome",
+                  "awesome-ssh",
+                  "bash",
+                  "devops",
+                  "fish",
+                  "fisher",
+                  "hacking-tools",
+                  "linux",
+                  "ohmybash",
+                  "ohmyfish",
+                  "ohmyzsh",
+                  "openssh",
+                  "osquery",
+                  "powerlevel10k",
+                  "powerlevel9k",
+                  "shell",
+                  "ssh",
+                  "xonsh",
+                  "xxh",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:11:16.692Z"
             }
@@ -664,12 +1444,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+            "homepage": null,
             "id": 219294494,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-02T04:36:08Z",
+            "open_issues": 30,
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6077
+            "stars": 6077,
+            "topics": [
+              "awesome",
+              "awesome-ssh",
+              "bash",
+              "devops",
+              "fish",
+              "fisher",
+              "hacking-tools",
+              "linux",
+              "ohmybash",
+              "ohmyfish",
+              "ohmyzsh",
+              "openssh",
+              "osquery",
+              "powerlevel10k",
+              "powerlevel9k",
+              "shell",
+              "ssh",
+              "xonsh",
+              "xxh",
+              "zsh"
+            ]
           },
           "title": "Questions and answers",
           "first_seen": "2026-08-29T01:11:16.692Z"
@@ -687,12 +1493,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The user-friendly command line shell.",
+            "homepage": "https://fishshell.com",
             "id": 4279682,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:05:51Z",
+            "open_issues": 567,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34080
+            "stars": 34082,
+            "topics": [
+              "fish",
+              "rust",
+              "shell",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -703,12 +1519,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.",
+            "homepage": "http://xon.sh",
             "id": 29620400,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T08:24:46Z",
+            "open_issues": 73,
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9624
+            "stars": 9624,
+            "topics": [
+              "anthropic",
+              "claude",
+              "claude-code",
+              "cmux",
+              "data-engineering",
+              "data-scientists",
+              "devops",
+              "devsecops",
+              "hyper",
+              "iterm2",
+              "kitty",
+              "nix",
+              "nixos",
+              "python-automation",
+              "raspberry-pi",
+              "security-automation",
+              "vscode-extension",
+              "wezterm",
+              "xonsh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -719,12 +1560,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statically-linked, hermetic, relocatable Zsh",
+            "homepage": null,
             "id": 247715945,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-14T07:19:24Z",
+            "open_issues": 3,
             "owner": "romkatv",
             "repo": "zsh-bin",
-            "stars": 401
+            "stars": 401,
+            "topics": [
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         },
@@ -735,12 +1583,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AppImage distributions of Python",
+            "homepage": "https://python-appimage.readthedocs.io/en/latest/",
             "id": 251001753,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-02T05:54:01Z",
+            "open_issues": 17,
             "owner": "niess",
             "repo": "python-appimage",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "appimage",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:11:16.692Z"
         }
@@ -749,15 +1605,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:16.692Z",
+    "last_updated": "2026-08-29T04:15:04.456Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+      "homepage": null,
       "id": 219294494,
       "language": "Python",
+      "license": "BSD-2-Clause",
       "last_commit": "2026-06-02T04:36:08Z",
+      "open_issues": 30,
       "owner": "xxh",
       "repo": "xxh",
-      "stars": 6077
+      "stars": 6077,
+      "topics": [
+        "awesome",
+        "awesome-ssh",
+        "bash",
+        "devops",
+        "fish",
+        "fisher",
+        "hacking-tools",
+        "linux",
+        "ohmybash",
+        "ohmyfish",
+        "ohmyzsh",
+        "openssh",
+        "osquery",
+        "powerlevel10k",
+        "powerlevel9k",
+        "shell",
+        "ssh",
+        "xonsh",
+        "xxh",
+        "zsh"
+      ]
     },
     "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",
     "enhanced_repository": "enhansome/enhansome-xxh",
