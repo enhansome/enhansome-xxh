@@ -16,7 +16,8 @@
             "repo": "xxh-xxh-feedstock",
             "stars": 2
           },
-          "title": "Conda-forge feedstock"
+          "title": "Conda-forge feedstock",
+          "first_seen": "2026-08-29T01:11:16.692Z"
         }
       ],
       "title": "Installation methods"
@@ -36,8 +37,9 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6076
-          }
+            "stars": 6077
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -51,8 +53,9 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6076
-          }
+            "stars": 6077
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "xxh",
             "repo": "xxh-shell-xonsh",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "xxh",
             "repo": "xxh-plugin-xonsh-autojump",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "xxh",
             "repo": "xxh-shell-zsh",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "xxh",
             "repo": "xxh-plugin-zsh-ohmyzsh",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "xxh",
             "repo": "xxh-shell-fish",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "xxh",
             "repo": "xxh-plugin-fish-ohmyfish",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6076
-          }
+            "stars": 6077
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "xxh",
             "repo": "xxh-shell-bash",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "xxh",
             "repo": "xxh-plugin-bash-ohmybash",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "xxh",
             "repo": "xxh-shell-osquery",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "xxh",
             "repo": "xxh-shell-fish-appimage",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "krageon",
             "repo": "xxh-shell-elvish",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "children": [
@@ -248,8 +263,9 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6076
-              }
+                "stars": 6077
+              },
+              "first_seen": "2026-08-29T01:11:16.692Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "xxh",
                 "repo": "xxh-plugin-prerun-core",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:11:16.692Z"
             }
           ],
           "description": null,
@@ -290,7 +307,8 @@
             "repo": "xxh-shell-osquery",
             "stars": 7
           },
-          "title": "Read host as a table with osquery"
+          "title": "Read host as a table with osquery",
+          "first_seen": "2026-08-29T01:11:16.692Z"
         }
       ],
       "title": "Examples of use cases"
@@ -322,8 +340,9 @@
                         "last_commit": "2026-06-02T04:36:08Z",
                         "owner": "xxh",
                         "repo": "xxh",
-                        "stars": 6076
-                      }
+                        "stars": 6077
+                      },
+                      "first_seen": "2026-08-29T01:11:16.692Z"
                     },
                     {
                       "node_type": "item",
@@ -337,8 +356,9 @@
                         "last_commit": "2026-06-02T04:36:08Z",
                         "owner": "xxh",
                         "repo": "xxh",
-                        "stars": 6076
-                      }
+                        "stars": 6077
+                      },
+                      "first_seen": "2026-08-29T01:11:16.692Z"
                     }
                   ],
                   "repo_info": {
@@ -348,8 +368,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -363,8 +384,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -378,8 +400,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -393,8 +416,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -408,8 +432,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
@@ -419,8 +444,9 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6076
-              }
+                "stars": 6077
+              },
+              "first_seen": "2026-08-29T01:11:16.692Z"
             },
             {
               "node_type": "item",
@@ -439,8 +465,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
@@ -450,8 +477,9 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6076
-              }
+                "stars": 6077
+              },
+              "first_seen": "2026-08-29T01:11:16.692Z"
             },
             {
               "node_type": "item",
@@ -470,8 +498,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -485,8 +514,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -500,8 +530,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -515,8 +546,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -530,8 +562,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
@@ -541,8 +574,9 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6076
-              }
+                "stars": 6077
+              },
+              "first_seen": "2026-08-29T01:11:16.692Z"
             },
             {
               "node_type": "item",
@@ -561,8 +595,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -576,8 +611,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 },
                 {
                   "node_type": "item",
@@ -591,8 +627,9 @@
                     "last_commit": "2026-06-02T04:36:08Z",
                     "owner": "xxh",
                     "repo": "xxh",
-                    "stars": 6076
-                  }
+                    "stars": 6077
+                  },
+                  "first_seen": "2026-08-29T01:11:16.692Z"
                 }
               ],
               "repo_info": {
@@ -602,8 +639,9 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6076
-              }
+                "stars": 6077
+              },
+              "first_seen": "2026-08-29T01:11:16.692Z"
             },
             {
               "node_type": "item",
@@ -617,8 +655,9 @@
                 "last_commit": "2026-06-02T04:36:08Z",
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6076
-              }
+                "stars": 6077
+              },
+              "first_seen": "2026-08-29T01:11:16.692Z"
             }
           ],
           "description": null,
@@ -630,9 +669,10 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6076
+            "stars": 6077
           },
-          "title": "Questions and answers"
+          "title": "Questions and answers",
+          "first_seen": "2026-08-29T01:11:16.692Z"
         }
       ],
       "title": "Overview"
@@ -649,11 +689,12 @@
             "archived": false,
             "id": 4279682,
             "language": "Rust",
-            "last_commit": "2026-08-28T01:10:55Z",
+            "last_commit": "2026-08-28T19:05:51Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34077
-          }
+            "stars": 34080
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -667,8 +708,9 @@
             "last_commit": "2026-08-25T08:24:46Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9622
-          }
+            "stars": 9624
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -683,7 +725,8 @@
             "owner": "romkatv",
             "repo": "zsh-bin",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         },
         {
           "node_type": "item",
@@ -698,14 +741,15 @@
             "owner": "niess",
             "repo": "python-appimage",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-29T01:11:16.692Z"
         }
       ],
       "title": "Thanks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:03.306Z",
+    "last_updated": "2026-08-29T01:11:16.692Z",
     "original_repository_info": {
       "archived": false,
       "id": 219294494,
@@ -713,7 +757,7 @@
       "last_commit": "2026-06-02T04:36:08Z",
       "owner": "xxh",
       "repo": "xxh",
-      "stars": 6076
+      "stars": 6077
     },
     "original_repository_sha": "1034852d2f1f5ed11495b2e3d0d551f8dda4ffa4",
     "enhanced_repository": "enhansome/enhansome-xxh",
