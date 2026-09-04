@@ -6,7 +6,7 @@
 If you like the idea of xxh click ⭐ on the repo and <a href="https://twitter.com/intent/tweet?text=Bring%20your%20favorite%20shell%20wherever%20you%20go%20through%20the%20ssh.&url=https://github.com/xxh/xxh" target="_blank">tweet</a>.
 </p>
 
-[<img alt='[xxh demo]' src='https://raw.githubusercontent.com/xxh/static/master/xxh-demo2.gif'>](https://github.com/xxh/xxh#installation-methods) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+[<img alt='[xxh demo]' src='https://raw.githubusercontent.com/xxh/static/master/xxh-demo2.gif'>](https://github.com/xxh/xxh#installation-methods) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
 
 <table border="0" width="100%">
 <col style="width:33%">
@@ -83,17 +83,17 @@ wget -O xxh https://github.com/xxh/xxh/releases/download/0.8.12/xxh-x86_64.AppIm
 chmod +x xxh && ./xxh
 ```
 
-To run AppImage on Alpine Linux [install](https://github.com/sgerrand/alpine-pkg-glibc/issues/153#issuecomment-795334536) ⭐ 2,166 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) ⭐ 2,166 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 with [localedef](https://github.com/sgerrand/alpine-pkg-glibc#locales) ⭐ 2,166 | 🐛 49 | 🌐 Shell | 📅 2024-06-24.
+To run AppImage on Alpine Linux [install](https://github.com/sgerrand/alpine-pkg-glibc/issues/153#issuecomment-795334536) ⭐ 2,167 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) ⭐ 2,167 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 with [localedef](https://github.com/sgerrand/alpine-pkg-glibc#locales) ⭐ 2,167 | 🐛 49 | 🌐 Shell | 📅 2024-06-24.
 
 ## Shells
 
-Currently supported OS for the target host is Linux on x86\_64. [ARM support](https://github.com/xxh/xxh/issues/188) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02 from the community.
+Currently supported OS for the target host is Linux on x86\_64. [ARM support](https://github.com/xxh/xxh/issues/188) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02 from the community.
 
-| xxh-shell                                                                                                    | status | [xxh-plugins](https://github.com/xxh/xxh/wiki#plugins) ⭐ 6,081 \| 🐛 30 \| 🌐 Python \| 📅 2026-06-02                                                                                                                                                                                                                                                                                                               | [seamless](https://github.com/xxh/xxh/wiki#seamless-mode) ⭐ 6,081 \| 🐛 30 \| 🌐 Python \| 📅 2026-06-02 | demo                                                                                 |
+| xxh-shell                                                                                                    | status | [xxh-plugins](https://github.com/xxh/xxh/wiki#plugins) ⭐ 6,082 \| 🐛 30 \| 🌐 Python \| 📅 2026-06-02                                                                                                                                                                                                                                                                                                               | [seamless](https://github.com/xxh/xxh/wiki#seamless-mode) ⭐ 6,082 \| 🐛 30 \| 🌐 Python \| 📅 2026-06-02 | demo                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | **[xonsh](https://github.com/xxh/xxh-shell-xonsh) ⭐ 60 \| 🐛 6 \| 🌐 Shell \| 📅 2026-07-02**                | stable | [autojump](https://github.com/xxh/xxh-plugin-xonsh-autojump) ⭐ 4 \| 🐛 0 \| 🌐 Shell \| 📅 2023-02-06, [\[+\]](https://github.com/xxh/xxh-plugin-xonsh-example) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2020-10-02                                                                                                                                                                                                           | `xxh.xsh`                                                                                                | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> |
 | **[zsh](https://github.com/xxh/xxh-shell-zsh) ⭐ 39 \| 🐛 7 \| 🌐 Shell \| 📅 2026-06-02**                    | stable | [ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh) ⭐ 42 \| 🐛 4 \| 🌐 Shell \| 📅 2021-03-29, [p10k](https://github.com/xxh/xxh-plugin-zsh-powerlevel10k) ⭐ 16 \| 🐛 0 \| 🌐 Shell \| 📅 2020-04-01, [\[+\]](https://github.com/xxh/xxh-plugin-zsh-example) ⭐ 6 \| 🐛 0 \| 🌐 Shell \| 📅 2020-04-01                                                                                                          | `xxh.zsh`                                                                                                | <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |
-| **[fish](https://github.com/xxh/xxh-shell-fish) ⭐ 22 \| 🐛 4 \| 🌐 Shell \| 📅 2022-12-21**                  | stable | [ohmyfish](https://github.com/xxh/xxh-plugin-fish-ohmyfish) ⭐ 5 \| 🐛 0 \| 🌐 Shell \| 📅 2020-10-05, [fisher](https://github.com/xxh/xxh-plugin-fish-fisher) ⭐ 11 \| 🐛 1 \| 🌐 Shell \| 📅 2021-03-08, [userconfig](https://github.com/xxh/xxh-plugin-fish-userconfig) ⭐ 4 \| 🐛 1 \| 🌐 Shell \| 📅 2020-07-27, [\[+\]](https://github.com/xxh/xxh-plugin-fish-example) ⭐ 4 \| 🐛 0 \| 🌐 Shell \| 📅 2020-07-27 | [todo](https://github.com/xxh/xxh/issues/74) ⭐ 6,081 \| 🐛 30 \| 🌐 Python \| 📅 2026-06-02              |                                                                                      |
+| **[fish](https://github.com/xxh/xxh-shell-fish) ⭐ 22 \| 🐛 4 \| 🌐 Shell \| 📅 2022-12-21**                  | stable | [ohmyfish](https://github.com/xxh/xxh-plugin-fish-ohmyfish) ⭐ 5 \| 🐛 0 \| 🌐 Shell \| 📅 2020-10-05, [fisher](https://github.com/xxh/xxh-plugin-fish-fisher) ⭐ 11 \| 🐛 1 \| 🌐 Shell \| 📅 2021-03-08, [userconfig](https://github.com/xxh/xxh-plugin-fish-userconfig) ⭐ 4 \| 🐛 1 \| 🌐 Shell \| 📅 2020-07-27, [\[+\]](https://github.com/xxh/xxh-plugin-fish-example) ⭐ 4 \| 🐛 0 \| 🌐 Shell \| 📅 2020-07-27 | [todo](https://github.com/xxh/xxh/issues/74) ⭐ 6,082 \| 🐛 30 \| 🌐 Python \| 📅 2026-06-02              |                                                                                      |
 | **[bash](https://github.com/xxh/xxh-shell-bash) ⭐ 9 \| 🐛 0 \| 🌐 Shell \| 📅 2021-07-24**                   | stable | [ohmybash](https://github.com/xxh/xxh-plugin-bash-ohmybash) ⭐ 8 \| 🐛 0 \| 🌐 Shell \| 📅 2022-04-24, [\[+\]](https://github.com/xxh/xxh-plugin-bash-example) ⭐ 2 \| 🐛 0 \| 🌐 Shell \| 📅 2020-04-21                                                                                                                                                                                                              | `xxh.bash`                                                                                               | <a href="https://asciinema.org/a/314508" target="_blank">demo</a>                    |
 | **[osquery](https://github.com/xxh/xxh-shell-osquery) ⭐ 7 \| 🐛 1 \| 🌐 Shell \| 📅 2022-08-11**             | beta   |                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                          |                                                                                      |
 | **[fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) ⭐ 8 \| 🐛 0 \| 🌐 Shell \| 📅 2020-10-05** | alpha  |                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                          |                                                                                      |
@@ -103,7 +103,7 @@ Currently supported OS for the target host is Linux on x86\_64. [ARM support](ht
 
 ### Prerun plugins
 
-[Prerun plugins](https://github.com/xxh/xxh/wiki#plugins) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02 allow you to bring any portable tools, dotfiles, or aliases to your xxh session before running the shell.
+[Prerun plugins](https://github.com/xxh/xxh/wiki#plugins) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02 allow you to bring any portable tools, dotfiles, or aliases to your xxh session before running the shell.
 
 Pinned plugins: **[core](https://github.com/xxh/xxh-plugin-prerun-core) ⭐ 9 | 🐛 2 | 🌐 Shell | 📅 2022-09-27** (xxh-sudo, xxh-screen, xxh-tmux), **[dotfiles](https://github.com/xxh/xxh-plugin-prerun-dotfiles) ⭐ 39 | 🐛 2 | 🌐 Shell | 📅 2024-04-29**, **[docker](https://github.com/xxh/xxh-plugin-prerun-docker) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2020-05-20**, **[python](https://github.com/xxh/xxh-plugin-prerun-python) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2022-04-27**, **[xxh](https://github.com/xxh/xxh-plugin-prerun-xxh) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-03-23**, **[vim](https://github.com/xxh/xxh-plugin-prerun-vim) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-03-28**, **[zoxide](https://github.com/xxh/xxh-plugin-prerun-zoxide) ⭐ 21 | 🐛 0 | 🌐 Shell | 📅 2023-02-06**, **[starship](https://github.com/izissise/xxh-plugin-prerun-starship) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2022-03-22**. There is [cookiecutter template to create a prerun plugin](https://github.com/xxh/cookiecutter-xxh-plugin-prerun) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2022-12-12.
 
@@ -132,9 +132,9 @@ source xxh.zsh anyhost +I xxh-plugin-zsh-ohmyzsh  # Connect in seamless mode wit
 xxh local +s xonsh                                # Experimental: build xxh environment inplace and without ssh
 ```
 
-For reusing arguments and simplifying xxh usage (like shortening to `xxh anyhost`), there is a [config file](https://github.com/xxh/xxh/wiki#config-file) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02.
+For reusing arguments and simplifying xxh usage (like shortening to `xxh anyhost`), there is a [config file](https://github.com/xxh/xxh/wiki#config-file) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02.
 
-**Why the plus sign for the xxh arguments?** The xxh is using the plus sign for xxh arguments to preserve the ability to use the minus sign for the original ssh arguments. This allows just replacing the first two letters in the `ssh` command to convert it to the `xxh` command. Also see the [discussion](https://github.com/xxh/xxh/issues/129) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02.
+**Why the plus sign for the xxh arguments?** The xxh is using the plus sign for xxh arguments to preserve the ability to use the minus sign for the original ssh arguments. This allows just replacing the first two letters in the `ssh` command to convert it to the `xxh` command. Also see the [discussion](https://github.com/xxh/xxh/issues/129) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02.
 
 ### Installing xxh packages
 
@@ -255,35 +255,35 @@ xxh is very agile. You can create your own `xxh-shell` (the shell part means it 
 that could help you on the host. [Bash](https://github.com/xxh/xxh-shell-bash) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2021-07-24 xxh-shell is one of these
 platforms that could be forked and stuffed.
 
-## [Questions and answers](https://github.com/xxh/xxh/wiki) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+## [Questions and answers](https://github.com/xxh/xxh/wiki) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
 
-* [Welcome to xxh family](https://github.com/xxh/xxh/wiki#welcome-to-xxh-family) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [How it works](https://github.com/xxh/xxh/wiki#how-it-works) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-    * [Simple answer](https://github.com/xxh/xxh/wiki#simple-answer) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-    * [Detailed workflow with code](https://github.com/xxh/xxh/wiki#detailed-workflow-with-code) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Plugins](https://github.com/xxh/xxh/wiki#plugins) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Connection speed](https://github.com/xxh/xxh/wiki#connection-speed) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Seamless mode](https://github.com/xxh/xxh/wiki#seamless-mode) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Config file](https://github.com/xxh/xxh/wiki#config-file) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-* [Packages for xxh](https://github.com/xxh/xxh/wiki#packages-for-xxh) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Install shells and plugins](https://github.com/xxh/xxh/wiki#install-shells-and-plugins) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-* [Advanced](https://github.com/xxh/xxh/wiki#advanced) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [How to set /home/user as home on host](https://github.com/xxh/xxh/wiki#how-to-set-homeuser-as-home-on-host) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Using sudo](https://github.com/xxh/xxh/wiki#using-sudo) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Using xxh in xxh session](https://github.com/xxh/xxh/wiki#using-xxh-in-xxh-session) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Target host is behind another host](https://github.com/xxh/xxh/wiki#target-host-is-behind-another-host) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Environment variables](https://github.com/xxh/xxh/wiki#environment-variables) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-* [Development and contribution](https://github.com/xxh/xxh/wiki#development-and-contribution) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [The easiest way to debug shell and plugins](https://github.com/xxh/xxh/wiki#the-easiest-way-to-debug-shell-and-plugins) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Prerun plugins](https://github.com/xxh/xxh/wiki#prerun-plugins) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-  * [Change plugin run order](https://github.com/xxh/xxh/wiki#change-plugin-run-order) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
-* [New questions](https://github.com/xxh/xxh/wiki#new-questions) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+* [Welcome to xxh family](https://github.com/xxh/xxh/wiki#welcome-to-xxh-family) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [How it works](https://github.com/xxh/xxh/wiki#how-it-works) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+    * [Simple answer](https://github.com/xxh/xxh/wiki#simple-answer) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+    * [Detailed workflow with code](https://github.com/xxh/xxh/wiki#detailed-workflow-with-code) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Plugins](https://github.com/xxh/xxh/wiki#plugins) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Connection speed](https://github.com/xxh/xxh/wiki#connection-speed) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Seamless mode](https://github.com/xxh/xxh/wiki#seamless-mode) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Config file](https://github.com/xxh/xxh/wiki#config-file) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+* [Packages for xxh](https://github.com/xxh/xxh/wiki#packages-for-xxh) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Install shells and plugins](https://github.com/xxh/xxh/wiki#install-shells-and-plugins) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+* [Advanced](https://github.com/xxh/xxh/wiki#advanced) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [How to set /home/user as home on host](https://github.com/xxh/xxh/wiki#how-to-set-homeuser-as-home-on-host) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Using sudo](https://github.com/xxh/xxh/wiki#using-sudo) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Using xxh in xxh session](https://github.com/xxh/xxh/wiki#using-xxh-in-xxh-session) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Target host is behind another host](https://github.com/xxh/xxh/wiki#target-host-is-behind-another-host) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Environment variables](https://github.com/xxh/xxh/wiki#environment-variables) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+* [Development and contribution](https://github.com/xxh/xxh/wiki#development-and-contribution) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [The easiest way to debug shell and plugins](https://github.com/xxh/xxh/wiki#the-easiest-way-to-debug-shell-and-plugins) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Prerun plugins](https://github.com/xxh/xxh/wiki#prerun-plugins) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+  * [Change plugin run order](https://github.com/xxh/xxh/wiki#change-plugin-run-order) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+* [New questions](https://github.com/xxh/xxh/wiki#new-questions) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
 
 ## Development
 
 ### xxh Development Environment
 
-In the [xxh development environment](https://github.com/xxh/xxh/tree/master/xde) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02 there is a full [dockerised](https://www.docker.com/) environment
+In the [xxh development environment](https://github.com/xxh/xxh/tree/master/xde) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02 there is a full [dockerised](https://www.docker.com/) environment
 for development, testing, and contribution. The process of testing and development is orchestrated by `xde` tool and is as
 easy as possible.
 
@@ -297,16 +297,16 @@ See [the Plugin Development folder](./plugin-development) for more details
 
 If you're in a team it does not mean you have an obligation to do something. The main goal of teams is to create groups
 of passionate people who could help or support solving complex problems. Some people could be an expert in one shell and a
-newbie in another shell and mutual assistance is the key to xxh evolution. [Ask to join.](https://github.com/xxh/xxh/issues/50) ⭐ 6,081 | 🐛 30 | 🌐 Python | 📅 2026-06-02
+newbie in another shell and mutual assistance is the key to xxh evolution. [Ask to join.](https://github.com/xxh/xxh/issues/50) ⭐ 6,082 | 🐛 30 | 🌐 Python | 📅 2026-06-02
 
 ## Thanks
 
-* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,121 | 🐛 560 | 🌐 Rust | 📅 2026-09-03.
-* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,629 | 🐛 75 | 🌐 Python | 📅 2026-09-01.
+* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,127 | 🐛 563 | 🌐 Rust | 📅 2026-09-04.
+* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,630 | 🐛 75 | 🌐 Python | 📅 2026-09-01.
 * **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 401 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
 * **niess** for great [python-appimage](https://github.com/niess/python-appimage) ⭐ 224 | 🐛 18 | 🌐 Python | 📅 2026-08-02.
 * **probonopd** and **TheAssassin** for hard-working [AppImage](https://github.com/AppImage).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
