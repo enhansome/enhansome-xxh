@@ -1502,7 +1502,7 @@
             "open_issues": 564,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34201,
+            "stars": 34207,
             "topics": [
               "fish",
               "rust",
@@ -1528,7 +1528,7 @@
             "open_issues": 75,
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9644,
+            "stars": 9645,
             "topics": [
               "anthropic",
               "claude",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:27:55.373Z",
+    "last_updated": "2026-09-17T20:35:23.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
