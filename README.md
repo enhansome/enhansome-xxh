@@ -301,12 +301,12 @@ newbie in another shell and mutual assistance is the key to xxh evolution. [Ask 
 
 ## Thanks
 
-* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,244 | 🐛 556 | 🌐 Rust | 📅 2026-09-26.
-* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,658 | 🐛 76 | 🌐 Python | 📅 2026-09-27.
+* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,243 | 🐛 555 | 🌐 Rust | 📅 2026-09-28.
+* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,660 | 🐛 76 | 🌐 Python | 📅 2026-09-28.
 * **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 401 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
 * **niess** for great [python-appimage](https://github.com/niess/python-appimage) ⭐ 224 | 🐛 18 | 🌐 Python | 📅 2026-08-02.
 * **probonopd** and **TheAssassin** for hard-working [AppImage](https://github.com/AppImage).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
