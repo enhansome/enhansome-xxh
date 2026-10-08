@@ -395,10 +395,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T21:06:42Z",
-            "open_issues": 557,
+            "open_issues": 558,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34267,
+            "stars": 34273,
             "topics": [
               "fish",
               "rust",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:17:51.431Z",
+    "last_updated": "2026-10-08T22:30:26.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
@@ -513,7 +513,7 @@
       "open_issues": 30,
       "owner": "xxh",
       "repo": "xxh",
-      "stars": 6104,
+      "stars": 6105,
       "topics": [
         "awesome",
         "awesome-ssh",
