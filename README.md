@@ -83,7 +83,7 @@ wget -O xxh https://github.com/xxh/xxh/releases/download/0.8.12/xxh-x86_64.AppIm
 chmod +x xxh && ./xxh
 ```
 
-To run AppImage on Alpine Linux [install](https://github.com/sgerrand/alpine-pkg-glibc/issues/153#issuecomment-795334536) ⭐ 2,171 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) ⭐ 2,171 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 with [localedef](https://github.com/sgerrand/alpine-pkg-glibc#locales) ⭐ 2,171 | 🐛 49 | 🌐 Shell | 📅 2024-06-24.
+To run AppImage on Alpine Linux [install](https://github.com/sgerrand/alpine-pkg-glibc/issues/153#issuecomment-795334536) ⭐ 2,172 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) ⭐ 2,172 | 🐛 49 | 🌐 Shell | 📅 2024-06-24 with [localedef](https://github.com/sgerrand/alpine-pkg-glibc#locales) ⭐ 2,172 | 🐛 49 | 🌐 Shell | 📅 2024-06-24.
 
 ## Shells
 
@@ -301,12 +301,12 @@ newbie in another shell and mutual assistance is the key to xxh evolution. [Ask 
 
 ## Thanks
 
-* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,387 | 🐛 569 | 🌐 Rust | 📅 2026-10-27.
-* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,684 | 🐛 89 | 🌐 Python | 📅 2026-11-01.
+* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,394 | 🐛 572 | 🌐 Rust | 📅 2026-11-02.
+* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,684 | 🐛 90 | 🌐 Python | 📅 2026-11-02.
 * **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 403 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
 * **niess** for great [python-appimage](https://github.com/niess/python-appimage) ⭐ 223 | 🐛 20 | 🌐 Python | 📅 2026-08-02.
 * **probonopd** and **TheAssassin** for hard-working [AppImage](https://github.com/AppImage).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
