@@ -301,12 +301,12 @@ newbie in another shell and mutual assistance is the key to xxh evolution. [Ask 
 
 ## Thanks
 
-* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,451 | 🐛 573 | 🌐 Rust | 📅 2026-11-11.
-* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,696 | 🐛 98 | 🌐 Python | 📅 2026-11-09.
-* **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 404 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
+* **Johannes Altmanninger** and **Fabian Homborg** for extensive and portable [fish shell](https://github.com/fish-shell/fish-shell) ⭐ 34,459 | 🐛 575 | 🌐 Rust | 📅 2026-11-11.
+* **Anthony Scopatz**, **Gil Forsyth**, **Jamie Bliss**, **David Strobach**, **Morten Enemark Lund** and **@xore** for amazing [xonsh shell](https://github.com/xonsh/xonsh) ⭐ 9,698 | 🐛 99 | 🌐 Python | 📅 2026-11-09.
+* **Roman Perepelitsa** for incredible [statically-linked, hermetic, relocatable Zsh](https://github.com/romkatv/zsh-bin) ⭐ 403 | 🐛 3 | 🌐 Shell | 📅 2026-05-14.
 * **niess** for great [python-appimage](https://github.com/niess/python-appimage) ⭐ 223 | 🐛 20 | 🌐 Python | 📅 2026-11-05.
 * **probonopd** and **TheAssassin** for hard-working [AppImage](https://github.com/AppImage).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
