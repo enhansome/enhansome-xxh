@@ -395,10 +395,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T06:25:46Z",
-            "open_issues": 578,
+            "open_issues": 579,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34514,
+            "stars": 34526,
             "topics": [
               "fish",
               "rust",
@@ -421,10 +421,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T18:02:13Z",
-            "open_issues": 109,
+            "open_issues": 110,
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9706,
+            "stars": 9705,
             "topics": [
               "anthropic",
               "claude",
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:29:10.814Z",
+    "last_updated": "2026-11-25T01:38:05.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
@@ -513,7 +513,7 @@
       "open_issues": 30,
       "owner": "xxh",
       "repo": "xxh",
-      "stars": 6135,
+      "stars": 6134,
       "topics": [
         "awesome",
         "awesome-ssh",
